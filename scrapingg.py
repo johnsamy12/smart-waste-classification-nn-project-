@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from PIL import Image
 from io import BytesIO
 
-OUTPUT_DIR = "data2"
+OUTPUT_DIR = "final_data"
 MIN_SIZE = (100, 100)
 TARGET_PER_CLASS = 500  
 
