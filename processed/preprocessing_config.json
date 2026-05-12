@@ -1,0 +1,56 @@
+{
+  "img_size": 224,
+  "batch_size": 32,
+  "num_classes": 6,
+  "class_names": [
+    "cardboard",
+    "glass",
+    "metal",
+    "paper",
+    "plastic",
+    "trash"
+  ],
+  "class_to_idx": {
+    "cardboard": 0,
+    "glass": 1,
+    "metal": 2,
+    "paper": 3,
+    "plastic": 4,
+    "trash": 5
+  },
+  "splits": {
+    "train": 1760,
+    "val": 377,
+    "test": 378
+  },
+  "imagenet_mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "imagenet_std": [
+    0.229,
+    0.224,
+    0.225
+  ],
+  "dataset_mean": [
+    0.5674,
+    0.564,
+    0.5355
+  ],
+  "dataset_std": [
+    0.3122,
+    0.2997,
+    0.3142
+  ],
+  "class_weights": {
+    "trash": 1.0011,
+    "paper": 0.9745,
+    "cardboard": 0.9778,
+    "glass": 1.0221,
+    "plastic": 1.0628,
+    "metal": 0.9681
+  },
+  "corrupted_images": [],
+  "imbalance_ratio": 1.096
+}

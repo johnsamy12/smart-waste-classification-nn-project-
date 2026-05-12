@@ -1,0 +1,378 @@
+image_path,text_description,label,filename,class_folder,text_word_count,text_char_count,text_unique_words,text_clean,text_stemmed,label_encoded,label_cardboard,label_glass,label_metal,label_paper,label_plastic,label_trash
+waste_dataset/trash/000038.jpg,general household waste item found,trash,000038.jpg,trash,5,34,5,general household waste item found,gener household wast item found,5,0,0,0,0,0,1
+waste_dataset/metal/000307.jpg,empty metal can thrown away,metal,000307.jpg,metal,5,27,5,empty metal thrown away,empti metal thrown away,2,0,0,1,0,0,0
+waste_dataset/cardboard/000102.jpg,used cardboard carton for recycling,cardboard,000102.jpg,cardboard,5,35,5,used cardboard carton recycling,use cardboard carton recycl,0,1,0,0,0,0,0
+waste_dataset/glass/000148.jpg,glass container discarded as garbage,glass,000148.jpg,glass,5,36,5,glass container discarded garbage,glass contain discard garbag,1,0,1,0,0,0,0
+waste_dataset/metal/000391.jpg,a crushed metal can in trash,metal,000391.jpg,metal,6,28,6,crushed metal trash,crush metal trash,2,0,0,1,0,0,0
+waste_dataset/cardboard/000114.jpg,cardboard material discarded in bin,cardboard,000114.jpg,cardboard,5,35,5,cardboard material discarded bin,cardboard materi discard bin,0,1,0,0,0,0,0
+waste_dataset/metal/000272.jpg,aluminum or steel waste item found,metal,000272.jpg,metal,6,34,6,aluminum steel waste item found,aluminum steel wast item found,2,0,0,1,0,0,0
+waste_dataset/glass/000103.jpg,a glass bottle found in waste bin,glass,000103.jpg,glass,7,33,7,glass bottle found waste bin,glass bottl found wast bin,1,0,1,0,0,0,0
+waste_dataset/paper/000426.jpg,paper waste item found in garbage,paper,000426.jpg,paper,6,33,6,paper waste item found garbage,paper wast item found garbag,3,0,0,0,1,0,0
+waste_dataset/trash/000256.jpg,mixed waste garbage object found,trash,000256.jpg,trash,5,32,5,mixed waste garbage object found,mix wast garbag object found,5,0,0,0,0,0,1
+waste_dataset/glass/000237.jpg,recycled glass waste object found,glass,000237.jpg,glass,5,33,5,recycled glass waste object found,recycl glass wast object found,1,0,1,0,0,0,0
+waste_dataset/paper/000106.jpg,used newspaper or paper in trash bin,paper,000106.jpg,paper,7,36,7,used newspaper paper trash bin,use newspap paper trash bin,3,0,0,0,1,0,0
+waste_dataset/plastic/000323.jpg,empty plastic bottle waste object,plastic,000323.jpg,plastic,5,33,5,empty plastic bottle waste object,empti plastic bottl wast object,4,0,0,0,0,1,0
+waste_dataset/trash/000322.jpg,general waste material discarded,trash,000322.jpg,trash,4,32,4,general waste material discarded,gener wast materi discard,5,0,0,0,0,0,1
+waste_dataset/metal/000297.jpg,recycled metal can garbage item found,metal,000297.jpg,metal,6,37,6,recycled metal garbage item found,recycl metal garbag item found,2,0,0,1,0,0,0
+waste_dataset/metal/000237.jpg,a crushed metal can in trash,metal,000237.jpg,metal,6,28,6,crushed metal trash,crush metal trash,2,0,0,1,0,0,0
+waste_dataset/metal/000338.jpg,recycled metal can garbage item found,metal,000338.jpg,metal,6,37,6,recycled metal garbage item found,recycl metal garbag item found,2,0,0,1,0,0,0
+waste_dataset/paper/000235.jpg,old paper document thrown away,paper,000235.jpg,paper,5,30,5,old paper document thrown away,old paper document thrown away,3,0,0,0,1,0,0
+waste_dataset/trash/000159.jpg,general waste material discarded,trash,000159.jpg,trash,4,32,4,general waste material discarded,gener wast materi discard,5,0,0,0,0,0,1
+waste_dataset/metal/000139.jpg,recycled metal can garbage item found,metal,000139.jpg,metal,6,37,6,recycled metal garbage item found,recycl metal garbag item found,2,0,0,1,0,0,0
+waste_dataset/trash/000328.jpg,general waste material discarded,trash,000328.jpg,trash,4,32,4,general waste material discarded,gener wast materi discard,5,0,0,0,0,0,1
+waste_dataset/plastic/000319.jpg,a plastic bottle in garbage bin,plastic,000319.jpg,plastic,6,31,6,plastic bottle garbage bin,plastic bottl garbag bin,4,0,0,0,0,1,0
+waste_dataset/paper/000406.jpg,used newspaper or paper in trash bin,paper,000406.jpg,paper,7,36,7,used newspaper paper trash bin,use newspap paper trash bin,3,0,0,0,1,0,0
+waste_dataset/glass/000036.jpg,recycled glass waste object found,glass,000036.jpg,glass,5,33,5,recycled glass waste object found,recycl glass wast object found,1,0,1,0,0,0,0
+waste_dataset/cardboard/000054.jpg,old cardboard packaging garbage item,cardboard,000054.jpg,cardboard,5,36,5,old cardboard packaging garbage item,old cardboard packag garbag item,0,1,0,0,0,0,0
+waste_dataset/trash/000177.jpg,household garbage thrown away,trash,000177.jpg,trash,4,29,4,household garbage thrown away,household garbag thrown away,5,0,0,0,0,0,1
+waste_dataset/glass/000332.jpg,empty glass bottle discarded waste,glass,000332.jpg,glass,5,34,5,empty glass bottle discarded waste,empti glass bottl discard wast,1,0,1,0,0,0,0
+waste_dataset/plastic/000064.jpg,empty plastic bottle waste object,plastic,000064.jpg,plastic,5,33,5,empty plastic bottle waste object,empti plastic bottl wast object,4,0,0,0,0,1,0
+waste_dataset/cardboard/000271.jpg,recycled cardboard box material waste,cardboard,000271.jpg,cardboard,5,37,5,recycled cardboard box material waste,recycl cardboard box materi wast,0,1,0,0,0,0,0
+waste_dataset/paper/000146.jpg,old paper document thrown away,paper,000146.jpg,paper,5,30,5,old paper document thrown away,old paper document thrown away,3,0,0,0,1,0,0
+waste_dataset/paper/000364.jpg,paper sheet thrown in recycling bin,paper,000364.jpg,paper,6,35,6,paper sheet thrown recycling bin,paper sheet thrown recycl bin,3,0,0,0,1,0,0
+waste_dataset/plastic/000161.jpg,plastic bag found in garbage waste,plastic,000161.jpg,plastic,6,34,6,plastic bag found garbage waste,plastic bag found garbag wast,4,0,0,0,0,1,0
+waste_dataset/trash/000088.jpg,household garbage thrown away,trash,000088.jpg,trash,4,29,4,household garbage thrown away,household garbag thrown away,5,0,0,0,0,0,1
+waste_dataset/metal/000378.jpg,old metal container waste material,metal,000378.jpg,metal,5,34,5,old metal container waste material,old metal contain wast materi,2,0,0,1,0,0,0
+waste_dataset/plastic/000377.jpg,used plastic container discarded waste,plastic,000377.jpg,plastic,5,38,5,used plastic container discarded waste,use plastic contain discard wast,4,0,0,0,0,1,0
+waste_dataset/plastic/000375.jpg,discarded plastic material waste item,plastic,000375.jpg,plastic,5,37,5,discarded plastic material waste item,discard plastic materi wast item,4,0,0,0,0,1,0
+waste_dataset/metal/000105.jpg,steel or aluminum waste object,metal,000105.jpg,metal,5,30,5,steel aluminum waste object,steel aluminum wast object,2,0,0,1,0,0,0
+waste_dataset/cardboard/000022.jpg,used cardboard carton for recycling,cardboard,000022.jpg,cardboard,5,35,5,used cardboard carton recycling,use cardboard carton recycl,0,1,0,0,0,0,0
+waste_dataset/metal/000319.jpg,empty metal can thrown away,metal,000319.jpg,metal,5,27,5,empty metal thrown away,empti metal thrown away,2,0,0,1,0,0,0
+waste_dataset/plastic/000358.jpg,used plastic container discarded waste,plastic,000358.jpg,plastic,5,38,5,used plastic container discarded waste,use plastic contain discard wast,4,0,0,0,0,1,0
+waste_dataset/metal/000239.jpg,aluminum or steel waste item found,metal,000239.jpg,metal,6,34,6,aluminum steel waste item found,aluminum steel wast item found,2,0,0,1,0,0,0
+waste_dataset/cardboard/000278.jpg,corrugated cardboard waste object found,cardboard,000278.jpg,cardboard,5,39,5,corrugated cardboard waste object found,corrug cardboard wast object found,0,1,0,0,0,0,0
+waste_dataset/glass/000229.jpg,empty glass bottle discarded waste,glass,000229.jpg,glass,5,34,5,empty glass bottle discarded waste,empti glass bottl discard wast,1,0,1,0,0,0,0
+waste_dataset/paper/000427.jpg,paper waste item found in garbage,paper,000427.jpg,paper,6,33,6,paper waste item found garbage,paper wast item found garbag,3,0,0,0,1,0,0
+waste_dataset/glass/000222.jpg,clear glass waste material in trash,glass,000222.jpg,glass,6,35,6,clear glass waste material trash,clear glass wast materi trash,1,0,1,0,0,0,0
+waste_dataset/cardboard/000017.jpg,a flattened cardboard box in trash,cardboard,000017.jpg,cardboard,6,34,6,flattened cardboard box trash,flatten cardboard box trash,0,1,0,0,0,0,0
+waste_dataset/paper/000064.jpg,paper sheet thrown in recycling bin,paper,000064.jpg,paper,6,35,6,paper sheet thrown recycling bin,paper sheet thrown recycl bin,3,0,0,0,1,0,0
+waste_dataset/glass/000250.jpg,clear glass waste material in trash,glass,000250.jpg,glass,6,35,6,clear glass waste material trash,clear glass wast materi trash,1,0,1,0,0,0,0
+waste_dataset/paper/000284.jpg,white paper material discarded waste,paper,000284.jpg,paper,5,36,5,white paper material discarded waste,white paper materi discard wast,3,0,0,0,1,0,0
+waste_dataset/trash/000093.jpg,mixed waste garbage object found,trash,000093.jpg,trash,5,32,5,mixed waste garbage object found,mix wast garbag object found,5,0,0,0,0,0,1
+waste_dataset/metal/000303.jpg,used tin can discarded as waste,metal,000303.jpg,metal,6,31,6,used tin discarded waste,use tin discard wast,2,0,0,1,0,0,0
+waste_dataset/paper/000080.jpg,paper waste item found in garbage,paper,000080.jpg,paper,6,33,6,paper waste item found garbage,paper wast item found garbag,3,0,0,0,1,0,0
+waste_dataset/trash/000146.jpg,random waste item in trash bin,trash,000146.jpg,trash,6,30,6,random waste item trash bin,random wast item trash bin,5,0,0,0,0,0,1
+waste_dataset/paper/000216.jpg,a crumpled piece of paper waste,paper,000216.jpg,paper,6,31,6,crumpled piece paper waste,crumpl piec paper wast,3,0,0,0,1,0,0
+waste_dataset/glass/000243.jpg,clear glass waste material in trash,glass,000243.jpg,glass,6,35,6,clear glass waste material trash,clear glass wast materi trash,1,0,1,0,0,0,0
+waste_dataset/glass/000388.jpg,empty glass bottle discarded waste,glass,000388.jpg,glass,5,34,5,empty glass bottle discarded waste,empti glass bottl discard wast,1,0,1,0,0,0,0
+waste_dataset/cardboard/000402.jpg,cardboard material discarded in bin,cardboard,000402.jpg,cardboard,5,35,5,cardboard material discarded bin,cardboard materi discard bin,0,1,0,0,0,0,0
+waste_dataset/trash/000030.jpg,general trash item discarded,trash,000030.jpg,trash,4,28,4,general trash item discarded,gener trash item discard,5,0,0,0,0,0,1
+waste_dataset/plastic/000105.jpg,plastic waste item for recycling,plastic,000105.jpg,plastic,5,32,5,plastic waste item recycling,plastic wast item recycl,4,0,0,0,0,1,0
+waste_dataset/glass/000069.jpg,empty glass bottle discarded waste,glass,000069.jpg,glass,5,34,5,empty glass bottle discarded waste,empti glass bottl discard wast,1,0,1,0,0,0,0
+waste_dataset/plastic/000270.jpg,plastic waste recycling object found,plastic,000270.jpg,plastic,5,36,5,plastic waste recycling object found,plastic wast recycl object found,4,0,0,0,0,1,0
+waste_dataset/metal/000301.jpg,a crushed metal can in trash,metal,000301.jpg,metal,6,28,6,crushed metal trash,crush metal trash,2,0,0,1,0,0,0
+waste_dataset/metal/000276.jpg,steel or aluminum waste object,metal,000276.jpg,metal,5,30,5,steel aluminum waste object,steel aluminum wast object,2,0,0,1,0,0,0
+waste_dataset/metal/000030.jpg,used tin can discarded as waste,metal,000030.jpg,metal,6,31,6,used tin discarded waste,use tin discard wast,2,0,0,1,0,0,0
+waste_dataset/glass/000351.jpg,recycled glass waste object found,glass,000351.jpg,glass,5,33,5,recycled glass waste object found,recycl glass wast object found,1,0,1,0,0,0,0
+waste_dataset/paper/000288.jpg,paper sheet thrown in recycling bin,paper,000288.jpg,paper,6,35,6,paper sheet thrown recycling bin,paper sheet thrown recycl bin,3,0,0,0,1,0,0
+waste_dataset/metal/000052.jpg,used tin can discarded as waste,metal,000052.jpg,metal,6,31,6,used tin discarded waste,use tin discard wast,2,0,0,1,0,0,0
+waste_dataset/paper/000418.jpg,used newspaper or paper in trash bin,paper,000418.jpg,paper,7,36,7,used newspaper paper trash bin,use newspap paper trash bin,3,0,0,0,1,0,0
+waste_dataset/metal/000433.jpg,a crushed metal can in trash,metal,000433.jpg,metal,6,28,6,crushed metal trash,crush metal trash,2,0,0,1,0,0,0
+waste_dataset/trash/000351.jpg,general trash item discarded,trash,000351.jpg,trash,4,28,4,general trash item discarded,gener trash item discard,5,0,0,0,0,0,1
+waste_dataset/plastic/000088.jpg,a plastic bottle in garbage bin,plastic,000088.jpg,plastic,6,31,6,plastic bottle garbage bin,plastic bottl garbag bin,4,0,0,0,0,1,0
+waste_dataset/cardboard/000408.jpg,corrugated cardboard waste object found,cardboard,000408.jpg,cardboard,5,39,5,corrugated cardboard waste object found,corrug cardboard wast object found,0,1,0,0,0,0,0
+waste_dataset/glass/000150.jpg,shattered glass piece in garbage bin,glass,000150.jpg,glass,6,36,6,shattered glass piece garbage bin,shatter glass piec garbag bin,1,0,1,0,0,0,0
+waste_dataset/trash/000211.jpg,general waste material discarded,trash,000211.jpg,trash,4,32,4,general waste material discarded,gener wast materi discard,5,0,0,0,0,0,1
+waste_dataset/paper/000088.jpg,a crumpled piece of paper waste,paper,000088.jpg,paper,6,31,6,crumpled piece paper waste,crumpl piec paper wast,3,0,0,0,1,0,0
+waste_dataset/glass/000330.jpg,clear glass waste material in trash,glass,000330.jpg,glass,6,35,6,clear glass waste material trash,clear glass wast materi trash,1,0,1,0,0,0,0
+waste_dataset/paper/000270.jpg,used newspaper or paper in trash bin,paper,000270.jpg,paper,7,36,7,used newspaper paper trash bin,use newspap paper trash bin,3,0,0,0,1,0,0
+waste_dataset/paper/000332.jpg,old paper document thrown away,paper,000332.jpg,paper,5,30,5,old paper document thrown away,old paper document thrown away,3,0,0,0,1,0,0
+waste_dataset/metal/000054.jpg,old metal container waste material,metal,000054.jpg,metal,5,34,5,old metal container waste material,old metal contain wast materi,2,0,0,1,0,0,0
+waste_dataset/trash/000006.jpg,general trash item discarded,trash,000006.jpg,trash,4,28,4,general trash item discarded,gener trash item discard,5,0,0,0,0,0,1
+waste_dataset/metal/000339.jpg,steel or aluminum waste object,metal,000339.jpg,metal,5,30,5,steel aluminum waste object,steel aluminum wast object,2,0,0,1,0,0,0
+waste_dataset/glass/000232.jpg,empty glass bottle discarded waste,glass,000232.jpg,glass,5,34,5,empty glass bottle discarded waste,empti glass bottl discard wast,1,0,1,0,0,0,0
+waste_dataset/metal/000004.jpg,old metal container waste material,metal,000004.jpg,metal,5,34,5,old metal container waste material,old metal contain wast materi,2,0,0,1,0,0,0
+waste_dataset/metal/000325.jpg,steel or aluminum waste object,metal,000325.jpg,metal,5,30,5,steel aluminum waste object,steel aluminum wast object,2,0,0,1,0,0,0
+waste_dataset/glass/000050.jpg,clear glass waste material in trash,glass,000050.jpg,glass,6,35,6,clear glass waste material trash,clear glass wast materi trash,1,0,1,0,0,0,0
+waste_dataset/trash/000396.jpg,random waste item in trash bin,trash,000396.jpg,trash,6,30,6,random waste item trash bin,random wast item trash bin,5,0,0,0,0,0,1
+waste_dataset/plastic/000077.jpg,plastic bag found in garbage waste,plastic,000077.jpg,plastic,6,34,6,plastic bag found garbage waste,plastic bag found garbag wast,4,0,0,0,0,1,0
+waste_dataset/plastic/000065.jpg,plastic waste recycling object found,plastic,000065.jpg,plastic,5,36,5,plastic waste recycling object found,plastic wast recycl object found,4,0,0,0,0,1,0
+waste_dataset/cardboard/000051.jpg,old cardboard packaging garbage item,cardboard,000051.jpg,cardboard,5,36,5,old cardboard packaging garbage item,old cardboard packag garbag item,0,1,0,0,0,0,0
+waste_dataset/trash/000085.jpg,random waste item in trash bin,trash,000085.jpg,trash,6,30,6,random waste item trash bin,random wast item trash bin,5,0,0,0,0,0,1
+waste_dataset/plastic/000346.jpg,a plastic bottle in garbage bin,plastic,000346.jpg,plastic,6,31,6,plastic bottle garbage bin,plastic bottl garbag bin,4,0,0,0,0,1,0
+waste_dataset/glass/000172.jpg,shattered glass piece in garbage bin,glass,000172.jpg,glass,6,36,6,shattered glass piece garbage bin,shatter glass piec garbag bin,1,0,1,0,0,0,0
+waste_dataset/plastic/000393.jpg,used plastic container discarded waste,plastic,000393.jpg,plastic,5,38,5,used plastic container discarded waste,use plastic contain discard wast,4,0,0,0,0,1,0
+waste_dataset/plastic/000247.jpg,empty plastic bottle waste object,plastic,000247.jpg,plastic,5,33,5,empty plastic bottle waste object,empti plastic bottl wast object,4,0,0,0,0,1,0
+waste_dataset/glass/000143.jpg,recycled glass waste object found,glass,000143.jpg,glass,5,33,5,recycled glass waste object found,recycl glass wast object found,1,0,1,0,0,0,0
+waste_dataset/metal/000114.jpg,a crushed metal can in trash,metal,000114.jpg,metal,6,28,6,crushed metal trash,crush metal trash,2,0,0,1,0,0,0
+waste_dataset/glass/000276.jpg,recycled glass waste object found,glass,000276.jpg,glass,5,33,5,recycled glass waste object found,recycl glass wast object found,1,0,1,0,0,0,0
+waste_dataset/glass/000295.jpg,glass jar or bottle thrown away,glass,000295.jpg,glass,6,31,6,glass jar bottle thrown away,glass jar bottl thrown away,1,0,1,0,0,0,0
+waste_dataset/paper/000015.jpg,used newspaper or paper in trash bin,paper,000015.jpg,paper,7,36,7,used newspaper paper trash bin,use newspap paper trash bin,3,0,0,0,1,0,0
+waste_dataset/trash/000207.jpg,random waste item in trash bin,trash,000207.jpg,trash,6,30,6,random waste item trash bin,random wast item trash bin,5,0,0,0,0,0,1
+waste_dataset/glass/000140.jpg,glass container discarded as garbage,glass,000140.jpg,glass,5,36,5,glass container discarded garbage,glass contain discard garbag,1,0,1,0,0,0,0
+waste_dataset/paper/000202.jpg,torn paper piece in waste bin,paper,000202.jpg,paper,6,29,6,torn paper piece waste bin,torn paper piec wast bin,3,0,0,0,1,0,0
+waste_dataset/cardboard/000063.jpg,cardboard material discarded in bin,cardboard,000063.jpg,cardboard,5,35,5,cardboard material discarded bin,cardboard materi discard bin,0,1,0,0,0,0,0
+waste_dataset/cardboard/000071.jpg,brown cardboard packaging waste material,cardboard,000071.jpg,cardboard,5,40,5,brown cardboard packaging waste material,brown cardboard packag wast materi,0,1,0,0,0,0,0
+waste_dataset/metal/000065.jpg,recycled metal can garbage item found,metal,000065.jpg,metal,6,37,6,recycled metal garbage item found,recycl metal garbag item found,2,0,0,1,0,0,0
+waste_dataset/trash/000389.jpg,non recyclable waste object in bin,trash,000389.jpg,trash,6,34,6,non recyclable waste object bin,non recycl wast object bin,5,0,0,0,0,0,1
+waste_dataset/cardboard/000201.jpg,recycled cardboard box material waste,cardboard,000201.jpg,cardboard,5,37,5,recycled cardboard box material waste,recycl cardboard box materi wast,0,1,0,0,0,0,0
+waste_dataset/metal/000374.jpg,used tin can discarded as waste,metal,000374.jpg,metal,6,31,6,used tin discarded waste,use tin discard wast,2,0,0,1,0,0,0
+waste_dataset/paper/000314.jpg,old paper document thrown away,paper,000314.jpg,paper,5,30,5,old paper document thrown away,old paper document thrown away,3,0,0,0,1,0,0
+waste_dataset/cardboard/000383.jpg,brown cardboard packaging waste material,cardboard,000383.jpg,cardboard,5,40,5,brown cardboard packaging waste material,brown cardboard packag wast materi,0,1,0,0,0,0,0
+waste_dataset/trash/000180.jpg,general trash item discarded,trash,000180.jpg,trash,4,28,4,general trash item discarded,gener trash item discard,5,0,0,0,0,0,1
+waste_dataset/cardboard/000140.jpg,old cardboard packaging garbage item,cardboard,000140.jpg,cardboard,5,36,5,old cardboard packaging garbage item,old cardboard packag garbag item,0,1,0,0,0,0,0
+waste_dataset/paper/000258.jpg,used newspaper or paper in trash bin,paper,000258.jpg,paper,7,36,7,used newspaper paper trash bin,use newspap paper trash bin,3,0,0,0,1,0,0
+waste_dataset/plastic/000248.jpg,used plastic container discarded waste,plastic,000248.jpg,plastic,5,38,5,used plastic container discarded waste,use plastic contain discard wast,4,0,0,0,0,1,0
+waste_dataset/cardboard/000089.jpg,a flattened cardboard box in trash,cardboard,000089.jpg,cardboard,6,34,6,flattened cardboard box trash,flatten cardboard box trash,0,1,0,0,0,0,0
+waste_dataset/paper/000093.jpg,paper waste item found in garbage,paper,000093.jpg,paper,6,33,6,paper waste item found garbage,paper wast item found garbag,3,0,0,0,1,0,0
+waste_dataset/plastic/000109.jpg,plastic waste recycling object found,plastic,000109.jpg,plastic,5,36,5,plastic waste recycling object found,plastic wast recycl object found,4,0,0,0,0,1,0
+waste_dataset/metal/000028.jpg,used tin can discarded as waste,metal,000028.jpg,metal,6,31,6,used tin discarded waste,use tin discard wast,2,0,0,1,0,0,0
+waste_dataset/trash/000345.jpg,general trash item discarded,trash,000345.jpg,trash,4,28,4,general trash item discarded,gener trash item discard,5,0,0,0,0,0,1
+waste_dataset/glass/000234.jpg,a glass bottle found in waste bin,glass,000234.jpg,glass,7,33,7,glass bottle found waste bin,glass bottl found wast bin,1,0,1,0,0,0,0
+waste_dataset/glass/000267.jpg,glass jar or bottle thrown away,glass,000267.jpg,glass,6,31,6,glass jar bottle thrown away,glass jar bottl thrown away,1,0,1,0,0,0,0
+waste_dataset/glass/000238.jpg,glass container discarded as garbage,glass,000238.jpg,glass,5,36,5,glass container discarded garbage,glass contain discard garbag,1,0,1,0,0,0,0
+waste_dataset/trash/000405.jpg,mixed waste garbage object found,trash,000405.jpg,trash,5,32,5,mixed waste garbage object found,mix wast garbag object found,5,0,0,0,0,0,1
+waste_dataset/plastic/000388.jpg,used plastic container discarded waste,plastic,000388.jpg,plastic,5,38,5,used plastic container discarded waste,use plastic contain discard wast,4,0,0,0,0,1,0
+waste_dataset/cardboard/000206.jpg,recycled cardboard box material waste,cardboard,000206.jpg,cardboard,5,37,5,recycled cardboard box material waste,recycl cardboard box materi wast,0,1,0,0,0,0,0
+waste_dataset/metal/000130.jpg,metal container for recycling bin,metal,000130.jpg,metal,5,33,5,metal container recycling bin,metal contain recycl bin,2,0,0,1,0,0,0
+waste_dataset/trash/000035.jpg,household garbage thrown away,trash,000035.jpg,trash,4,29,4,household garbage thrown away,household garbag thrown away,5,0,0,0,0,0,1
+waste_dataset/trash/000205.jpg,random waste item in trash bin,trash,000205.jpg,trash,6,30,6,random waste item trash bin,random wast item trash bin,5,0,0,0,0,0,1
+waste_dataset/plastic/000206.jpg,empty plastic bottle waste object,plastic,000206.jpg,plastic,5,33,5,empty plastic bottle waste object,empti plastic bottl wast object,4,0,0,0,0,1,0
+waste_dataset/cardboard/000261.jpg,old cardboard packaging garbage item,cardboard,000261.jpg,cardboard,5,36,5,old cardboard packaging garbage item,old cardboard packag garbag item,0,1,0,0,0,0,0
+waste_dataset/paper/000102.jpg,old paper document thrown away,paper,000102.jpg,paper,5,30,5,old paper document thrown away,old paper document thrown away,3,0,0,0,1,0,0
+waste_dataset/glass/000075.jpg,glass container discarded as garbage,glass,000075.jpg,glass,5,36,5,glass container discarded garbage,glass contain discard garbag,1,0,1,0,0,0,0
+waste_dataset/glass/000306.jpg,shattered glass piece in garbage bin,glass,000306.jpg,glass,6,36,6,shattered glass piece garbage bin,shatter glass piec garbag bin,1,0,1,0,0,0,0
+waste_dataset/paper/000144.jpg,paper waste item found in garbage,paper,000144.jpg,paper,6,33,6,paper waste item found garbage,paper wast item found garbag,3,0,0,0,1,0,0
+waste_dataset/cardboard/000364.jpg,recycled cardboard box material waste,cardboard,000364.jpg,cardboard,5,37,5,recycled cardboard box material waste,recycl cardboard box materi wast,0,1,0,0,0,0,0
+waste_dataset/paper/000162.jpg,paper waste item found in garbage,paper,000162.jpg,paper,6,33,6,paper waste item found garbage,paper wast item found garbag,3,0,0,0,1,0,0
+waste_dataset/metal/000031.jpg,empty metal can thrown away,metal,000031.jpg,metal,5,27,5,empty metal thrown away,empti metal thrown away,2,0,0,1,0,0,0
+waste_dataset/glass/000379.jpg,a glass bottle found in waste bin,glass,000379.jpg,glass,7,33,7,glass bottle found waste bin,glass bottl found wast bin,1,0,1,0,0,0,0
+waste_dataset/trash/000076.jpg,mixed garbage non recyclable material,trash,000076.jpg,trash,5,37,5,mixed garbage non recyclable material,mix garbag non recycl materi,5,0,0,0,0,0,1
+waste_dataset/paper/000238.jpg,torn paper piece in waste bin,paper,000238.jpg,paper,6,29,6,torn paper piece waste bin,torn paper piec wast bin,3,0,0,0,1,0,0
+waste_dataset/metal/000245.jpg,old metal container waste material,metal,000245.jpg,metal,5,34,5,old metal container waste material,old metal contain wast materi,2,0,0,1,0,0,0
+waste_dataset/plastic/000232.jpg,empty plastic bottle waste object,plastic,000232.jpg,plastic,5,33,5,empty plastic bottle waste object,empti plastic bottl wast object,4,0,0,0,0,1,0
+waste_dataset/cardboard/000299.jpg,old cardboard packaging garbage item,cardboard,000299.jpg,cardboard,5,36,5,old cardboard packaging garbage item,old cardboard packag garbag item,0,1,0,0,0,0,0
+waste_dataset/cardboard/000365.jpg,recycled cardboard box material waste,cardboard,000365.jpg,cardboard,5,37,5,recycled cardboard box material waste,recycl cardboard box materi wast,0,1,0,0,0,0,0
+waste_dataset/plastic/000115.jpg,plastic waste recycling object found,plastic,000115.jpg,plastic,5,36,5,plastic waste recycling object found,plastic wast recycl object found,4,0,0,0,0,1,0
+waste_dataset/metal/000040.jpg,metal container for recycling bin,metal,000040.jpg,metal,5,33,5,metal container recycling bin,metal contain recycl bin,2,0,0,1,0,0,0
+waste_dataset/metal/000231.jpg,a crushed metal can in trash,metal,000231.jpg,metal,6,28,6,crushed metal trash,crush metal trash,2,0,0,1,0,0,0
+waste_dataset/plastic/000031.jpg,plastic waste item for recycling,plastic,000031.jpg,plastic,5,32,5,plastic waste item recycling,plastic wast item recycl,4,0,0,0,0,1,0
+waste_dataset/paper/000041.jpg,white paper material discarded waste,paper,000041.jpg,paper,5,36,5,white paper material discarded waste,white paper materi discard wast,3,0,0,0,1,0,0
+waste_dataset/paper/000127.jpg,paper waste item found in garbage,paper,000127.jpg,paper,6,33,6,paper waste item found garbage,paper wast item found garbag,3,0,0,0,1,0,0
+waste_dataset/metal/000287.jpg,a crushed metal can in trash,metal,000287.jpg,metal,6,28,6,crushed metal trash,crush metal trash,2,0,0,1,0,0,0
+waste_dataset/metal/000009.jpg,aluminum or steel waste item found,metal,000009.jpg,metal,6,34,6,aluminum steel waste item found,aluminum steel wast item found,2,0,0,1,0,0,0
+waste_dataset/trash/000368.jpg,random waste item in trash bin,trash,000368.jpg,trash,6,30,6,random waste item trash bin,random wast item trash bin,5,0,0,0,0,0,1
+waste_dataset/metal/000095.jpg,a crushed metal can in trash,metal,000095.jpg,metal,6,28,6,crushed metal trash,crush metal trash,2,0,0,1,0,0,0
+waste_dataset/paper/000091.jpg,a crumpled piece of paper waste,paper,000091.jpg,paper,6,31,6,crumpled piece paper waste,crumpl piec paper wast,3,0,0,0,1,0,0
+waste_dataset/trash/000218.jpg,mixed waste garbage object found,trash,000218.jpg,trash,5,32,5,mixed waste garbage object found,mix wast garbag object found,5,0,0,0,0,0,1
+waste_dataset/metal/000034.jpg,a crushed metal can in trash,metal,000034.jpg,metal,6,28,6,crushed metal trash,crush metal trash,2,0,0,1,0,0,0
+waste_dataset/glass/000224.jpg,clear glass waste material in trash,glass,000224.jpg,glass,6,35,6,clear glass waste material trash,clear glass wast materi trash,1,0,1,0,0,0,0
+waste_dataset/metal/000345.jpg,aluminum or steel waste item found,metal,000345.jpg,metal,6,34,6,aluminum steel waste item found,aluminum steel wast item found,2,0,0,1,0,0,0
+waste_dataset/metal/000377.jpg,aluminum or steel waste item found,metal,000377.jpg,metal,6,34,6,aluminum steel waste item found,aluminum steel wast item found,2,0,0,1,0,0,0
+waste_dataset/trash/000181.jpg,general waste material discarded,trash,000181.jpg,trash,4,32,4,general waste material discarded,gener wast materi discard,5,0,0,0,0,0,1
+waste_dataset/metal/000403.jpg,used tin can discarded as waste,metal,000403.jpg,metal,6,31,6,used tin discarded waste,use tin discard wast,2,0,0,1,0,0,0
+waste_dataset/plastic/000220.jpg,a plastic bottle in garbage bin,plastic,000220.jpg,plastic,6,31,6,plastic bottle garbage bin,plastic bottl garbag bin,4,0,0,0,0,1,0
+waste_dataset/paper/000020.jpg,white paper material discarded waste,paper,000020.jpg,paper,5,36,5,white paper material discarded waste,white paper materi discard wast,3,0,0,0,1,0,0
+waste_dataset/cardboard/000189.jpg,brown cardboard packaging waste material,cardboard,000189.jpg,cardboard,5,40,5,brown cardboard packaging waste material,brown cardboard packag wast materi,0,1,0,0,0,0,0
+waste_dataset/cardboard/000156.jpg,old cardboard packaging garbage item,cardboard,000156.jpg,cardboard,5,36,5,old cardboard packaging garbage item,old cardboard packag garbag item,0,1,0,0,0,0,0
+waste_dataset/metal/000430.jpg,used tin can discarded as waste,metal,000430.jpg,metal,6,31,6,used tin discarded waste,use tin discard wast,2,0,0,1,0,0,0
+waste_dataset/metal/000064.jpg,empty metal can thrown away,metal,000064.jpg,metal,5,27,5,empty metal thrown away,empti metal thrown away,2,0,0,1,0,0,0
+waste_dataset/cardboard/000094.jpg,used cardboard carton for recycling,cardboard,000094.jpg,cardboard,5,35,5,used cardboard carton recycling,use cardboard carton recycl,0,1,0,0,0,0,0
+waste_dataset/metal/000102.jpg,a crushed metal can in trash,metal,000102.jpg,metal,6,28,6,crushed metal trash,crush metal trash,2,0,0,1,0,0,0
+waste_dataset/plastic/000098.jpg,empty plastic bottle waste object,plastic,000098.jpg,plastic,5,33,5,empty plastic bottle waste object,empti plastic bottl wast object,4,0,0,0,0,1,0
+waste_dataset/metal/000383.jpg,metal container for recycling bin,metal,000383.jpg,metal,5,33,5,metal container recycling bin,metal contain recycl bin,2,0,0,1,0,0,0
+waste_dataset/cardboard/000236.jpg,brown cardboard packaging waste material,cardboard,000236.jpg,cardboard,5,40,5,brown cardboard packaging waste material,brown cardboard packag wast materi,0,1,0,0,0,0,0
+waste_dataset/trash/000246.jpg,mixed garbage non recyclable material,trash,000246.jpg,trash,5,37,5,mixed garbage non recyclable material,mix garbag non recycl materi,5,0,0,0,0,0,1
+waste_dataset/glass/000290.jpg,empty glass bottle discarded waste,glass,000290.jpg,glass,5,34,5,empty glass bottle discarded waste,empti glass bottl discard wast,1,0,1,0,0,0,0
+waste_dataset/cardboard/000078.jpg,brown cardboard packaging waste material,cardboard,000078.jpg,cardboard,5,40,5,brown cardboard packaging waste material,brown cardboard packag wast materi,0,1,0,0,0,0,0
+waste_dataset/trash/000260.jpg,non recyclable waste object in bin,trash,000260.jpg,trash,6,34,6,non recyclable waste object bin,non recycl wast object bin,5,0,0,0,0,0,1
+waste_dataset/glass/000204.jpg,recycled glass waste object found,glass,000204.jpg,glass,5,33,5,recycled glass waste object found,recycl glass wast object found,1,0,1,0,0,0,0
+waste_dataset/cardboard/000224.jpg,cardboard material discarded in bin,cardboard,000224.jpg,cardboard,5,35,5,cardboard material discarded bin,cardboard materi discard bin,0,1,0,0,0,0,0
+waste_dataset/metal/000069.jpg,recycled metal can garbage item found,metal,000069.jpg,metal,6,37,6,recycled metal garbage item found,recycl metal garbag item found,2,0,0,1,0,0,0
+waste_dataset/cardboard/000279.jpg,recycled cardboard box material waste,cardboard,000279.jpg,cardboard,5,37,5,recycled cardboard box material waste,recycl cardboard box materi wast,0,1,0,0,0,0,0
+waste_dataset/plastic/000386.jpg,plastic waste recycling object found,plastic,000386.jpg,plastic,5,36,5,plastic waste recycling object found,plastic wast recycl object found,4,0,0,0,0,1,0
+waste_dataset/paper/000012.jpg,used newspaper or paper in trash bin,paper,000012.jpg,paper,7,36,7,used newspaper paper trash bin,use newspap paper trash bin,3,0,0,0,1,0,0
+waste_dataset/cardboard/000095.jpg,empty cardboard box thrown away,cardboard,000095.jpg,cardboard,5,31,5,empty cardboard box thrown away,empti cardboard box thrown away,0,1,0,0,0,0,0
+waste_dataset/trash/000162.jpg,random waste item in trash bin,trash,000162.jpg,trash,6,30,6,random waste item trash bin,random wast item trash bin,5,0,0,0,0,0,1
+waste_dataset/cardboard/000226.jpg,a flattened cardboard box in trash,cardboard,000226.jpg,cardboard,6,34,6,flattened cardboard box trash,flatten cardboard box trash,0,1,0,0,0,0,0
+waste_dataset/paper/000222.jpg,used newspaper or paper in trash bin,paper,000222.jpg,paper,7,36,7,used newspaper paper trash bin,use newspap paper trash bin,3,0,0,0,1,0,0
+waste_dataset/paper/000058.jpg,torn paper piece in waste bin,paper,000058.jpg,paper,6,29,6,torn paper piece waste bin,torn paper piec wast bin,3,0,0,0,1,0,0
+waste_dataset/trash/000254.jpg,general trash item discarded,trash,000254.jpg,trash,4,28,4,general trash item discarded,gener trash item discard,5,0,0,0,0,0,1
+waste_dataset/glass/000212.jpg,glass jar or bottle thrown away,glass,000212.jpg,glass,6,31,6,glass jar bottle thrown away,glass jar bottl thrown away,1,0,1,0,0,0,0
+waste_dataset/metal/000201.jpg,steel or aluminum waste object,metal,000201.jpg,metal,5,30,5,steel aluminum waste object,steel aluminum wast object,2,0,0,1,0,0,0
+waste_dataset/cardboard/000013.jpg,brown cardboard packaging waste material,cardboard,000013.jpg,cardboard,5,40,5,brown cardboard packaging waste material,brown cardboard packag wast materi,0,1,0,0,0,0,0
+waste_dataset/trash/000198.jpg,household garbage thrown away,trash,000198.jpg,trash,4,29,4,household garbage thrown away,household garbag thrown away,5,0,0,0,0,0,1
+waste_dataset/trash/000134.jpg,general trash item discarded,trash,000134.jpg,trash,4,28,4,general trash item discarded,gener trash item discard,5,0,0,0,0,0,1
+waste_dataset/metal/000432.jpg,recycled metal can garbage item found,metal,000432.jpg,metal,6,37,6,recycled metal garbage item found,recycl metal garbag item found,2,0,0,1,0,0,0
+waste_dataset/trash/000071.jpg,general trash item discarded,trash,000071.jpg,trash,4,28,4,general trash item discarded,gener trash item discard,5,0,0,0,0,0,1
+waste_dataset/paper/000388.jpg,paper waste item found in garbage,paper,000388.jpg,paper,6,33,6,paper waste item found garbage,paper wast item found garbag,3,0,0,0,1,0,0
+waste_dataset/trash/000169.jpg,random waste item in trash bin,trash,000169.jpg,trash,6,30,6,random waste item trash bin,random wast item trash bin,5,0,0,0,0,0,1
+waste_dataset/paper/000370.jpg,used newspaper or paper in trash bin,paper,000370.jpg,paper,7,36,7,used newspaper paper trash bin,use newspap paper trash bin,3,0,0,0,1,0,0
+waste_dataset/paper/000316.jpg,used newspaper or paper in trash bin,paper,000316.jpg,paper,7,36,7,used newspaper paper trash bin,use newspap paper trash bin,3,0,0,0,1,0,0
+waste_dataset/metal/000206.jpg,metal container for recycling bin,metal,000206.jpg,metal,5,33,5,metal container recycling bin,metal contain recycl bin,2,0,0,1,0,0,0
+waste_dataset/plastic/000229.jpg,plastic packaging thrown in trash bin,plastic,000229.jpg,plastic,6,37,6,plastic packaging thrown trash bin,plastic packag thrown trash bin,4,0,0,0,0,1,0
+waste_dataset/glass/000139.jpg,a glass bottle found in waste bin,glass,000139.jpg,glass,7,33,7,glass bottle found waste bin,glass bottl found wast bin,1,0,1,0,0,0,0
+waste_dataset/trash/000066.jpg,general household waste item found,trash,000066.jpg,trash,5,34,5,general household waste item found,gener household wast item found,5,0,0,0,0,0,1
+waste_dataset/glass/000058.jpg,empty glass bottle discarded waste,glass,000058.jpg,glass,5,34,5,empty glass bottle discarded waste,empti glass bottl discard wast,1,0,1,0,0,0,0
+waste_dataset/paper/000322.jpg,a crumpled piece of paper waste,paper,000322.jpg,paper,6,31,6,crumpled piece paper waste,crumpl piec paper wast,3,0,0,0,1,0,0
+waste_dataset/cardboard/000027.jpg,used cardboard carton for recycling,cardboard,000027.jpg,cardboard,5,35,5,used cardboard carton recycling,use cardboard carton recycl,0,1,0,0,0,0,0
+waste_dataset/trash/000240.jpg,random waste item in trash bin,trash,000240.jpg,trash,6,30,6,random waste item trash bin,random wast item trash bin,5,0,0,0,0,0,1
+waste_dataset/cardboard/000037.jpg,brown cardboard packaging waste material,cardboard,000037.jpg,cardboard,5,40,5,brown cardboard packaging waste material,brown cardboard packag wast materi,0,1,0,0,0,0,0
+waste_dataset/cardboard/000080.jpg,used cardboard carton for recycling,cardboard,000080.jpg,cardboard,5,35,5,used cardboard carton recycling,use cardboard carton recycl,0,1,0,0,0,0,0
+waste_dataset/plastic/000190.jpg,discarded plastic material waste item,plastic,000190.jpg,plastic,5,37,5,discarded plastic material waste item,discard plastic materi wast item,4,0,0,0,0,1,0
+waste_dataset/glass/000161.jpg,clear glass waste material in trash,glass,000161.jpg,glass,6,35,6,clear glass waste material trash,clear glass wast materi trash,1,0,1,0,0,0,0
+waste_dataset/cardboard/000150.jpg,used cardboard carton for recycling,cardboard,000150.jpg,cardboard,5,35,5,used cardboard carton recycling,use cardboard carton recycl,0,1,0,0,0,0,0
+waste_dataset/metal/000396.jpg,empty metal can thrown away,metal,000396.jpg,metal,5,27,5,empty metal thrown away,empti metal thrown away,2,0,0,1,0,0,0
+waste_dataset/trash/000200.jpg,general waste material discarded,trash,000200.jpg,trash,4,32,4,general waste material discarded,gener wast materi discard,5,0,0,0,0,0,1
+waste_dataset/trash/000032.jpg,non recyclable waste object in bin,trash,000032.jpg,trash,6,34,6,non recyclable waste object bin,non recycl wast object bin,5,0,0,0,0,0,1
+waste_dataset/plastic/000127.jpg,discarded plastic material waste item,plastic,000127.jpg,plastic,5,37,5,discarded plastic material waste item,discard plastic materi wast item,4,0,0,0,0,1,0
+waste_dataset/glass/000319.jpg,glass container discarded as garbage,glass,000319.jpg,glass,5,36,5,glass container discarded garbage,glass contain discard garbag,1,0,1,0,0,0,0
+waste_dataset/trash/000210.jpg,general waste material discarded,trash,000210.jpg,trash,4,32,4,general waste material discarded,gener wast materi discard,5,0,0,0,0,0,1
+waste_dataset/trash/000309.jpg,non recyclable waste object in bin,trash,000309.jpg,trash,6,34,6,non recyclable waste object bin,non recycl wast object bin,5,0,0,0,0,0,1
+waste_dataset/cardboard/000127.jpg,corrugated cardboard waste object found,cardboard,000127.jpg,cardboard,5,39,5,corrugated cardboard waste object found,corrug cardboard wast object found,0,1,0,0,0,0,0
+waste_dataset/paper/000087.jpg,old paper document thrown away,paper,000087.jpg,paper,5,30,5,old paper document thrown away,old paper document thrown away,3,0,0,0,1,0,0
+waste_dataset/cardboard/000178.jpg,recycled cardboard box material waste,cardboard,000178.jpg,cardboard,5,37,5,recycled cardboard box material waste,recycl cardboard box materi wast,0,1,0,0,0,0,0
+waste_dataset/cardboard/000427.jpg,corrugated cardboard waste object found,cardboard,000427.jpg,cardboard,5,39,5,corrugated cardboard waste object found,corrug cardboard wast object found,0,1,0,0,0,0,0
+waste_dataset/plastic/000186.jpg,plastic bag found in garbage waste,plastic,000186.jpg,plastic,6,34,6,plastic bag found garbage waste,plastic bag found garbag wast,4,0,0,0,0,1,0
+waste_dataset/plastic/000170.jpg,a plastic bottle in garbage bin,plastic,000170.jpg,plastic,6,31,6,plastic bottle garbage bin,plastic bottl garbag bin,4,0,0,0,0,1,0
+waste_dataset/trash/000263.jpg,general household waste item found,trash,000263.jpg,trash,5,34,5,general household waste item found,gener household wast item found,5,0,0,0,0,0,1
+waste_dataset/cardboard/000284.jpg,corrugated cardboard waste object found,cardboard,000284.jpg,cardboard,5,39,5,corrugated cardboard waste object found,corrug cardboard wast object found,0,1,0,0,0,0,0
+waste_dataset/cardboard/000399.jpg,corrugated cardboard waste object found,cardboard,000399.jpg,cardboard,5,39,5,corrugated cardboard waste object found,corrug cardboard wast object found,0,1,0,0,0,0,0
+waste_dataset/glass/000193.jpg,glass container discarded as garbage,glass,000193.jpg,glass,5,36,5,glass container discarded garbage,glass contain discard garbag,1,0,1,0,0,0,0
+waste_dataset/paper/000430.jpg,paper sheet thrown in recycling bin,paper,000430.jpg,paper,6,35,6,paper sheet thrown recycling bin,paper sheet thrown recycl bin,3,0,0,0,1,0,0
+waste_dataset/metal/000321.jpg,steel or aluminum waste object,metal,000321.jpg,metal,5,30,5,steel aluminum waste object,steel aluminum wast object,2,0,0,1,0,0,0
+waste_dataset/paper/000328.jpg,paper waste item found in garbage,paper,000328.jpg,paper,6,33,6,paper waste item found garbage,paper wast item found garbag,3,0,0,0,1,0,0
+waste_dataset/trash/000039.jpg,mixed garbage non recyclable material,trash,000039.jpg,trash,5,37,5,mixed garbage non recyclable material,mix garbag non recycl materi,5,0,0,0,0,0,1
+waste_dataset/glass/000196.jpg,shattered glass piece in garbage bin,glass,000196.jpg,glass,6,36,6,shattered glass piece garbage bin,shatter glass piec garbag bin,1,0,1,0,0,0,0
+waste_dataset/metal/000263.jpg,used tin can discarded as waste,metal,000263.jpg,metal,6,31,6,used tin discarded waste,use tin discard wast,2,0,0,1,0,0,0
+waste_dataset/paper/000392.jpg,paper sheet thrown in recycling bin,paper,000392.jpg,paper,6,35,6,paper sheet thrown recycling bin,paper sheet thrown recycl bin,3,0,0,0,1,0,0
+waste_dataset/plastic/000172.jpg,used plastic container discarded waste,plastic,000172.jpg,plastic,5,38,5,used plastic container discarded waste,use plastic contain discard wast,4,0,0,0,0,1,0
+waste_dataset/paper/000194.jpg,torn paper piece in waste bin,paper,000194.jpg,paper,6,29,6,torn paper piece waste bin,torn paper piec wast bin,3,0,0,0,1,0,0
+waste_dataset/cardboard/000118.jpg,a flattened cardboard box in trash,cardboard,000118.jpg,cardboard,6,34,6,flattened cardboard box trash,flatten cardboard box trash,0,1,0,0,0,0,0
+waste_dataset/plastic/000198.jpg,plastic packaging thrown in trash bin,plastic,000198.jpg,plastic,6,37,6,plastic packaging thrown trash bin,plastic packag thrown trash bin,4,0,0,0,0,1,0
+waste_dataset/cardboard/000163.jpg,a flattened cardboard box in trash,cardboard,000163.jpg,cardboard,6,34,6,flattened cardboard box trash,flatten cardboard box trash,0,1,0,0,0,0,0
+waste_dataset/plastic/000052.jpg,a plastic bottle in garbage bin,plastic,000052.jpg,plastic,6,31,6,plastic bottle garbage bin,plastic bottl garbag bin,4,0,0,0,0,1,0
+waste_dataset/trash/000397.jpg,general household waste item found,trash,000397.jpg,trash,5,34,5,general household waste item found,gener household wast item found,5,0,0,0,0,0,1
+waste_dataset/metal/000172.jpg,steel or aluminum waste object,metal,000172.jpg,metal,5,30,5,steel aluminum waste object,steel aluminum wast object,2,0,0,1,0,0,0
+waste_dataset/plastic/000126.jpg,empty plastic bottle waste object,plastic,000126.jpg,plastic,5,33,5,empty plastic bottle waste object,empti plastic bottl wast object,4,0,0,0,0,1,0
+waste_dataset/trash/000404.jpg,household garbage thrown away,trash,000404.jpg,trash,4,29,4,household garbage thrown away,household garbag thrown away,5,0,0,0,0,0,1
+waste_dataset/metal/000254.jpg,a crushed metal can in trash,metal,000254.jpg,metal,6,28,6,crushed metal trash,crush metal trash,2,0,0,1,0,0,0
+waste_dataset/trash/000184.jpg,general waste material discarded,trash,000184.jpg,trash,4,32,4,general waste material discarded,gener wast materi discard,5,0,0,0,0,0,1
+waste_dataset/glass/000003.jpg,broken glass item for recycling,glass,000003.jpg,glass,5,31,5,broken glass item recycling,broken glass item recycl,1,0,1,0,0,0,0
+waste_dataset/plastic/000394.jpg,discarded plastic material waste item,plastic,000394.jpg,plastic,5,37,5,discarded plastic material waste item,discard plastic materi wast item,4,0,0,0,0,1,0
+waste_dataset/plastic/000277.jpg,a plastic bottle in garbage bin,plastic,000277.jpg,plastic,6,31,6,plastic bottle garbage bin,plastic bottl garbag bin,4,0,0,0,0,1,0
+waste_dataset/cardboard/000121.jpg,empty cardboard box thrown away,cardboard,000121.jpg,cardboard,5,31,5,empty cardboard box thrown away,empti cardboard box thrown away,0,1,0,0,0,0,0
+waste_dataset/cardboard/000248.jpg,empty cardboard box thrown away,cardboard,000248.jpg,cardboard,5,31,5,empty cardboard box thrown away,empti cardboard box thrown away,0,1,0,0,0,0,0
+waste_dataset/plastic/000208.jpg,plastic bag found in garbage waste,plastic,000208.jpg,plastic,6,34,6,plastic bag found garbage waste,plastic bag found garbag wast,4,0,0,0,0,1,0
+waste_dataset/plastic/000363.jpg,plastic bag found in garbage waste,plastic,000363.jpg,plastic,6,34,6,plastic bag found garbage waste,plastic bag found garbag wast,4,0,0,0,0,1,0
+waste_dataset/cardboard/000101.jpg,brown cardboard packaging waste material,cardboard,000101.jpg,cardboard,5,40,5,brown cardboard packaging waste material,brown cardboard packag wast materi,0,1,0,0,0,0,0
+waste_dataset/glass/000126.jpg,glass jar or bottle thrown away,glass,000126.jpg,glass,6,31,6,glass jar bottle thrown away,glass jar bottl thrown away,1,0,1,0,0,0,0
+waste_dataset/cardboard/000335.jpg,old cardboard packaging garbage item,cardboard,000335.jpg,cardboard,5,36,5,old cardboard packaging garbage item,old cardboard packag garbag item,0,1,0,0,0,0,0
+waste_dataset/paper/000396.jpg,paper sheet thrown in recycling bin,paper,000396.jpg,paper,6,35,6,paper sheet thrown recycling bin,paper sheet thrown recycl bin,3,0,0,0,1,0,0
+waste_dataset/paper/000079.jpg,used newspaper or paper in trash bin,paper,000079.jpg,paper,7,36,7,used newspaper paper trash bin,use newspap paper trash bin,3,0,0,0,1,0,0
+waste_dataset/glass/000023.jpg,a glass bottle found in waste bin,glass,000023.jpg,glass,7,33,7,glass bottle found waste bin,glass bottl found wast bin,1,0,1,0,0,0,0
+waste_dataset/cardboard/000069.jpg,a flattened cardboard box in trash,cardboard,000069.jpg,cardboard,6,34,6,flattened cardboard box trash,flatten cardboard box trash,0,1,0,0,0,0,0
+waste_dataset/plastic/000010.jpg,plastic waste recycling object found,plastic,000010.jpg,plastic,5,36,5,plastic waste recycling object found,plastic wast recycl object found,4,0,0,0,0,1,0
+waste_dataset/glass/000110.jpg,glass jar or bottle thrown away,glass,000110.jpg,glass,6,31,6,glass jar bottle thrown away,glass jar bottl thrown away,1,0,1,0,0,0,0
+waste_dataset/paper/000234.jpg,paper waste item found in garbage,paper,000234.jpg,paper,6,33,6,paper waste item found garbage,paper wast item found garbag,3,0,0,0,1,0,0
+waste_dataset/trash/000361.jpg,mixed waste garbage object found,trash,000361.jpg,trash,5,32,5,mixed waste garbage object found,mix wast garbag object found,5,0,0,0,0,0,1
+waste_dataset/plastic/000344.jpg,plastic waste recycling object found,plastic,000344.jpg,plastic,5,36,5,plastic waste recycling object found,plastic wast recycl object found,4,0,0,0,0,1,0
+waste_dataset/cardboard/000200.jpg,corrugated cardboard waste object found,cardboard,000200.jpg,cardboard,5,39,5,corrugated cardboard waste object found,corrug cardboard wast object found,0,1,0,0,0,0,0
+waste_dataset/cardboard/000012.jpg,cardboard material discarded in bin,cardboard,000012.jpg,cardboard,5,35,5,cardboard material discarded bin,cardboard materi discard bin,0,1,0,0,0,0,0
+waste_dataset/paper/000032.jpg,old paper document thrown away,paper,000032.jpg,paper,5,30,5,old paper document thrown away,old paper document thrown away,3,0,0,0,1,0,0
+waste_dataset/trash/000028.jpg,random waste item in trash bin,trash,000028.jpg,trash,6,30,6,random waste item trash bin,random wast item trash bin,5,0,0,0,0,0,1
+waste_dataset/trash/000004.jpg,non recyclable waste object in bin,trash,000004.jpg,trash,6,34,6,non recyclable waste object bin,non recycl wast object bin,5,0,0,0,0,0,1
+waste_dataset/cardboard/000050.jpg,corrugated cardboard waste object found,cardboard,000050.jpg,cardboard,5,39,5,corrugated cardboard waste object found,corrug cardboard wast object found,0,1,0,0,0,0,0
+waste_dataset/metal/000236.jpg,a crushed metal can in trash,metal,000236.jpg,metal,6,28,6,crushed metal trash,crush metal trash,2,0,0,1,0,0,0
+waste_dataset/glass/000076.jpg,glass jar or bottle thrown away,glass,000076.jpg,glass,6,31,6,glass jar bottle thrown away,glass jar bottl thrown away,1,0,1,0,0,0,0
+waste_dataset/cardboard/000302.jpg,a flattened cardboard box in trash,cardboard,000302.jpg,cardboard,6,34,6,flattened cardboard box trash,flatten cardboard box trash,0,1,0,0,0,0,0
+waste_dataset/plastic/000281.jpg,plastic waste recycling object found,plastic,000281.jpg,plastic,5,36,5,plastic waste recycling object found,plastic wast recycl object found,4,0,0,0,0,1,0
+waste_dataset/plastic/000341.jpg,discarded plastic material waste item,plastic,000341.jpg,plastic,5,37,5,discarded plastic material waste item,discard plastic materi wast item,4,0,0,0,0,1,0
+waste_dataset/glass/000361.jpg,glass container discarded as garbage,glass,000361.jpg,glass,5,36,5,glass container discarded garbage,glass contain discard garbag,1,0,1,0,0,0,0
+waste_dataset/cardboard/000407.jpg,empty cardboard box thrown away,cardboard,000407.jpg,cardboard,5,31,5,empty cardboard box thrown away,empti cardboard box thrown away,0,1,0,0,0,0,0
+waste_dataset/metal/000171.jpg,empty metal can thrown away,metal,000171.jpg,metal,5,27,5,empty metal thrown away,empti metal thrown away,2,0,0,1,0,0,0
+waste_dataset/glass/000169.jpg,empty glass bottle discarded waste,glass,000169.jpg,glass,5,34,5,empty glass bottle discarded waste,empti glass bottl discard wast,1,0,1,0,0,0,0
+waste_dataset/metal/000341.jpg,old metal container waste material,metal,000341.jpg,metal,5,34,5,old metal container waste material,old metal contain wast materi,2,0,0,1,0,0,0
+waste_dataset/trash/000179.jpg,general household waste item found,trash,000179.jpg,trash,5,34,5,general household waste item found,gener household wast item found,5,0,0,0,0,0,1
+waste_dataset/paper/000172.jpg,white paper material discarded waste,paper,000172.jpg,paper,5,36,5,white paper material discarded waste,white paper materi discard wast,3,0,0,0,1,0,0
+waste_dataset/plastic/000336.jpg,plastic waste recycling object found,plastic,000336.jpg,plastic,5,36,5,plastic waste recycling object found,plastic wast recycl object found,4,0,0,0,0,1,0
+waste_dataset/plastic/000050.jpg,plastic bag found in garbage waste,plastic,000050.jpg,plastic,6,34,6,plastic bag found garbage waste,plastic bag found garbag wast,4,0,0,0,0,1,0
+waste_dataset/cardboard/000312.jpg,recycled cardboard box material waste,cardboard,000312.jpg,cardboard,5,37,5,recycled cardboard box material waste,recycl cardboard box materi wast,0,1,0,0,0,0,0
+waste_dataset/trash/000140.jpg,general trash item discarded,trash,000140.jpg,trash,4,28,4,general trash item discarded,gener trash item discard,5,0,0,0,0,0,1
+waste_dataset/metal/000071.jpg,steel or aluminum waste object,metal,000071.jpg,metal,5,30,5,steel aluminum waste object,steel aluminum wast object,2,0,0,1,0,0,0
+waste_dataset/metal/000407.jpg,metal container for recycling bin,metal,000407.jpg,metal,5,33,5,metal container recycling bin,metal contain recycl bin,2,0,0,1,0,0,0
+waste_dataset/trash/000057.jpg,mixed waste garbage object found,trash,000057.jpg,trash,5,32,5,mixed waste garbage object found,mix wast garbag object found,5,0,0,0,0,0,1
+waste_dataset/glass/000387.jpg,glass jar or bottle thrown away,glass,000387.jpg,glass,6,31,6,glass jar bottle thrown away,glass jar bottl thrown away,1,0,1,0,0,0,0
+waste_dataset/paper/000033.jpg,paper sheet thrown in recycling bin,paper,000033.jpg,paper,6,35,6,paper sheet thrown recycling bin,paper sheet thrown recycl bin,3,0,0,0,1,0,0
+waste_dataset/cardboard/000168.jpg,empty cardboard box thrown away,cardboard,000168.jpg,cardboard,5,31,5,empty cardboard box thrown away,empti cardboard box thrown away,0,1,0,0,0,0,0
+waste_dataset/paper/000213.jpg,white paper material discarded waste,paper,000213.jpg,paper,5,36,5,white paper material discarded waste,white paper materi discard wast,3,0,0,0,1,0,0
+waste_dataset/glass/000261.jpg,glass container discarded as garbage,glass,000261.jpg,glass,5,36,5,glass container discarded garbage,glass contain discard garbag,1,0,1,0,0,0,0
+waste_dataset/trash/000259.jpg,general trash item discarded,trash,000259.jpg,trash,4,28,4,general trash item discarded,gener trash item discard,5,0,0,0,0,0,1
+waste_dataset/trash/000118.jpg,general household waste item found,trash,000118.jpg,trash,5,34,5,general household waste item found,gener household wast item found,5,0,0,0,0,0,1
+waste_dataset/plastic/000325.jpg,plastic waste recycling object found,plastic,000325.jpg,plastic,5,36,5,plastic waste recycling object found,plastic wast recycl object found,4,0,0,0,0,1,0
+waste_dataset/trash/000047.jpg,household garbage thrown away,trash,000047.jpg,trash,4,29,4,household garbage thrown away,household garbag thrown away,5,0,0,0,0,0,1
+waste_dataset/glass/000063.jpg,shattered glass piece in garbage bin,glass,000063.jpg,glass,6,36,6,shattered glass piece garbage bin,shatter glass piec garbag bin,1,0,1,0,0,0,0
+waste_dataset/plastic/000235.jpg,discarded plastic material waste item,plastic,000235.jpg,plastic,5,37,5,discarded plastic material waste item,discard plastic materi wast item,4,0,0,0,0,1,0
+waste_dataset/metal/000261.jpg,metal container for recycling bin,metal,000261.jpg,metal,5,33,5,metal container recycling bin,metal contain recycl bin,2,0,0,1,0,0,0
+waste_dataset/metal/000176.jpg,empty metal can thrown away,metal,000176.jpg,metal,5,27,5,empty metal thrown away,empti metal thrown away,2,0,0,1,0,0,0
+waste_dataset/plastic/000144.jpg,used plastic container discarded waste,plastic,000144.jpg,plastic,5,38,5,used plastic container discarded waste,use plastic contain discard wast,4,0,0,0,0,1,0
+waste_dataset/trash/000131.jpg,non recyclable waste object in bin,trash,000131.jpg,trash,6,34,6,non recyclable waste object bin,non recycl wast object bin,5,0,0,0,0,0,1
+waste_dataset/glass/000188.jpg,broken glass item for recycling,glass,000188.jpg,glass,5,31,5,broken glass item recycling,broken glass item recycl,1,0,1,0,0,0,0
+waste_dataset/trash/000384.jpg,general household waste item found,trash,000384.jpg,trash,5,34,5,general household waste item found,gener household wast item found,5,0,0,0,0,0,1
+waste_dataset/glass/000397.jpg,broken glass item for recycling,glass,000397.jpg,glass,5,31,5,broken glass item recycling,broken glass item recycl,1,0,1,0,0,0,0
+waste_dataset/paper/000267.jpg,white paper material discarded waste,paper,000267.jpg,paper,5,36,5,white paper material discarded waste,white paper materi discard wast,3,0,0,0,1,0,0
+waste_dataset/cardboard/000167.jpg,used cardboard carton for recycling,cardboard,000167.jpg,cardboard,5,35,5,used cardboard carton recycling,use cardboard carton recycl,0,1,0,0,0,0,0
+waste_dataset/metal/000222.jpg,empty metal can thrown away,metal,000222.jpg,metal,5,27,5,empty metal thrown away,empti metal thrown away,2,0,0,1,0,0,0
+waste_dataset/paper/000399.jpg,old paper document thrown away,paper,000399.jpg,paper,5,30,5,old paper document thrown away,old paper document thrown away,3,0,0,0,1,0,0
+waste_dataset/plastic/000106.jpg,plastic waste recycling object found,plastic,000106.jpg,plastic,5,36,5,plastic waste recycling object found,plastic wast recycl object found,4,0,0,0,0,1,0
+waste_dataset/plastic/000273.jpg,used plastic container discarded waste,plastic,000273.jpg,plastic,5,38,5,used plastic container discarded waste,use plastic contain discard wast,4,0,0,0,0,1,0
+waste_dataset/trash/000412.jpg,random waste item in trash bin,trash,000412.jpg,trash,6,30,6,random waste item trash bin,random wast item trash bin,5,0,0,0,0,0,1
+waste_dataset/trash/000081.jpg,household garbage thrown away,trash,000081.jpg,trash,4,29,4,household garbage thrown away,household garbag thrown away,5,0,0,0,0,0,1
+waste_dataset/plastic/000280.jpg,used plastic container discarded waste,plastic,000280.jpg,plastic,5,38,5,used plastic container discarded waste,use plastic contain discard wast,4,0,0,0,0,1,0
+waste_dataset/paper/000313.jpg,a crumpled piece of paper waste,paper,000313.jpg,paper,6,31,6,crumpled piece paper waste,crumpl piec paper wast,3,0,0,0,1,0,0
+waste_dataset/paper/000245.jpg,torn paper piece in waste bin,paper,000245.jpg,paper,6,29,6,torn paper piece waste bin,torn paper piec wast bin,3,0,0,0,1,0,0
+waste_dataset/paper/000280.jpg,white paper material discarded waste,paper,000280.jpg,paper,5,36,5,white paper material discarded waste,white paper materi discard wast,3,0,0,0,1,0,0
+waste_dataset/glass/000167.jpg,broken glass item for recycling,glass,000167.jpg,glass,5,31,5,broken glass item recycling,broken glass item recycl,1,0,1,0,0,0,0
+waste_dataset/glass/000131.jpg,empty glass bottle discarded waste,glass,000131.jpg,glass,5,34,5,empty glass bottle discarded waste,empti glass bottl discard wast,1,0,1,0,0,0,0
+waste_dataset/glass/000160.jpg,glass container discarded as garbage,glass,000160.jpg,glass,5,36,5,glass container discarded garbage,glass contain discard garbag,1,0,1,0,0,0,0
+waste_dataset/paper/000139.jpg,used newspaper or paper in trash bin,paper,000139.jpg,paper,7,36,7,used newspaper paper trash bin,use newspap paper trash bin,3,0,0,0,1,0,0
+waste_dataset/paper/000164.jpg,white paper material discarded waste,paper,000164.jpg,paper,5,36,5,white paper material discarded waste,white paper materi discard wast,3,0,0,0,1,0,0
+waste_dataset/plastic/000120.jpg,plastic bag found in garbage waste,plastic,000120.jpg,plastic,6,34,6,plastic bag found garbage waste,plastic bag found garbag wast,4,0,0,0,0,1,0
+waste_dataset/paper/000119.jpg,torn paper piece in waste bin,paper,000119.jpg,paper,6,29,6,torn paper piece waste bin,torn paper piec wast bin,3,0,0,0,1,0,0
+waste_dataset/glass/000078.jpg,broken glass item for recycling,glass,000078.jpg,glass,5,31,5,broken glass item recycling,broken glass item recycl,1,0,1,0,0,0,0
+waste_dataset/plastic/000324.jpg,plastic waste recycling object found,plastic,000324.jpg,plastic,5,36,5,plastic waste recycling object found,plastic wast recycl object found,4,0,0,0,0,1,0
+waste_dataset/paper/000137.jpg,white paper material discarded waste,paper,000137.jpg,paper,5,36,5,white paper material discarded waste,white paper materi discard wast,3,0,0,0,1,0,0
+waste_dataset/paper/000181.jpg,paper sheet thrown in recycling bin,paper,000181.jpg,paper,6,35,6,paper sheet thrown recycling bin,paper sheet thrown recycl bin,3,0,0,0,1,0,0
+waste_dataset/paper/000176.jpg,torn paper piece in waste bin,paper,000176.jpg,paper,6,29,6,torn paper piece waste bin,torn paper piec wast bin,3,0,0,0,1,0,0
+waste_dataset/cardboard/000396.jpg,brown cardboard packaging waste material,cardboard,000396.jpg,cardboard,5,40,5,brown cardboard packaging waste material,brown cardboard packag wast materi,0,1,0,0,0,0,0
+waste_dataset/plastic/000138.jpg,plastic bag found in garbage waste,plastic,000138.jpg,plastic,6,34,6,plastic bag found garbage waste,plastic bag found garbag wast,4,0,0,0,0,1,0
+waste_dataset/plastic/000289.jpg,plastic waste recycling object found,plastic,000289.jpg,plastic,5,36,5,plastic waste recycling object found,plastic wast recycl object found,4,0,0,0,0,1,0
+waste_dataset/trash/000115.jpg,household garbage thrown away,trash,000115.jpg,trash,4,29,4,household garbage thrown away,household garbag thrown away,5,0,0,0,0,0,1
+waste_dataset/glass/000226.jpg,recycled glass waste object found,glass,000226.jpg,glass,5,33,5,recycled glass waste object found,recycl glass wast object found,1,0,1,0,0,0,0
+waste_dataset/metal/000048.jpg,used tin can discarded as waste,metal,000048.jpg,metal,6,31,6,used tin discarded waste,use tin discard wast,2,0,0,1,0,0,0
+waste_dataset/paper/000359.jpg,a crumpled piece of paper waste,paper,000359.jpg,paper,6,31,6,crumpled piece paper waste,crumpl piec paper wast,3,0,0,0,1,0,0
+waste_dataset/metal/000073.jpg,used tin can discarded as waste,metal,000073.jpg,metal,6,31,6,used tin discarded waste,use tin discard wast,2,0,0,1,0,0,0
+waste_dataset/cardboard/000385.jpg,cardboard material discarded in bin,cardboard,000385.jpg,cardboard,5,35,5,cardboard material discarded bin,cardboard materi discard bin,0,1,0,0,0,0,0
+waste_dataset/glass/000296.jpg,clear glass waste material in trash,glass,000296.jpg,glass,6,35,6,clear glass waste material trash,clear glass wast materi trash,1,0,1,0,0,0,0
+waste_dataset/glass/000044.jpg,a glass bottle found in waste bin,glass,000044.jpg,glass,7,33,7,glass bottle found waste bin,glass bottl found wast bin,1,0,1,0,0,0,0
+waste_dataset/cardboard/000030.jpg,used cardboard carton for recycling,cardboard,000030.jpg,cardboard,5,35,5,used cardboard carton recycling,use cardboard carton recycl,0,1,0,0,0,0,0
+waste_dataset/plastic/000215.jpg,plastic waste item for recycling,plastic,000215.jpg,plastic,5,32,5,plastic waste item recycling,plastic wast item recycl,4,0,0,0,0,1,0
+waste_dataset/plastic/000241.jpg,plastic bag found in garbage waste,plastic,000241.jpg,plastic,6,34,6,plastic bag found garbage waste,plastic bag found garbag wast,4,0,0,0,0,1,0
+waste_dataset/paper/000074.jpg,white paper material discarded waste,paper,000074.jpg,paper,5,36,5,white paper material discarded waste,white paper materi discard wast,3,0,0,0,1,0,0
+waste_dataset/metal/000251.jpg,a crushed metal can in trash,metal,000251.jpg,metal,6,28,6,crushed metal trash,crush metal trash,2,0,0,1,0,0,0
+waste_dataset/cardboard/000059.jpg,cardboard material discarded in bin,cardboard,000059.jpg,cardboard,5,35,5,cardboard material discarded bin,cardboard materi discard bin,0,1,0,0,0,0,0
+waste_dataset/cardboard/000185.jpg,empty cardboard box thrown away,cardboard,000185.jpg,cardboard,5,31,5,empty cardboard box thrown away,empti cardboard box thrown away,0,1,0,0,0,0,0
+waste_dataset/glass/000365.jpg,glass jar or bottle thrown away,glass,000365.jpg,glass,6,31,6,glass jar bottle thrown away,glass jar bottl thrown away,1,0,1,0,0,0,0
+waste_dataset/glass/000252.jpg,empty glass bottle discarded waste,glass,000252.jpg,glass,5,34,5,empty glass bottle discarded waste,empti glass bottl discard wast,1,0,1,0,0,0,0
+waste_dataset/metal/000044.jpg,used tin can discarded as waste,metal,000044.jpg,metal,6,31,6,used tin discarded waste,use tin discard wast,2,0,0,1,0,0,0
+waste_dataset/glass/000013.jpg,glass container discarded as garbage,glass,000013.jpg,glass,5,36,5,glass container discarded garbage,glass contain discard garbag,1,0,1,0,0,0,0
+waste_dataset/paper/000124.jpg,paper waste item found in garbage,paper,000124.jpg,paper,6,33,6,paper waste item found garbage,paper wast item found garbag,3,0,0,0,1,0,0
+waste_dataset/metal/000126.jpg,recycled metal can garbage item found,metal,000126.jpg,metal,6,37,6,recycled metal garbage item found,recycl metal garbag item found,2,0,0,1,0,0,0
+waste_dataset/cardboard/000081.jpg,brown cardboard packaging waste material,cardboard,000081.jpg,cardboard,5,40,5,brown cardboard packaging waste material,brown cardboard packag wast materi,0,1,0,0,0,0,0
+waste_dataset/cardboard/000259.jpg,cardboard material discarded in bin,cardboard,000259.jpg,cardboard,5,35,5,cardboard material discarded bin,cardboard materi discard bin,0,1,0,0,0,0,0
+waste_dataset/plastic/000001.jpg,used plastic container discarded waste,plastic,000001.jpg,plastic,5,38,5,used plastic container discarded waste,use plastic contain discard wast,4,0,0,0,0,1,0
+waste_dataset/trash/000171.jpg,general household waste item found,trash,000171.jpg,trash,5,34,5,general household waste item found,gener household wast item found,5,0,0,0,0,0,1
+waste_dataset/metal/000008.jpg,aluminum or steel waste item found,metal,000008.jpg,metal,6,34,6,aluminum steel waste item found,aluminum steel wast item found,2,0,0,1,0,0,0
+waste_dataset/trash/000158.jpg,mixed waste garbage object found,trash,000158.jpg,trash,5,32,5,mixed waste garbage object found,mix wast garbag object found,5,0,0,0,0,0,1
+waste_dataset/paper/000382.jpg,paper waste item found in garbage,paper,000382.jpg,paper,6,33,6,paper waste item found garbage,paper wast item found garbag,3,0,0,0,1,0,0
+waste_dataset/cardboard/000397.jpg,brown cardboard packaging waste material,cardboard,000397.jpg,cardboard,5,40,5,brown cardboard packaging waste material,brown cardboard packag wast materi,0,1,0,0,0,0,0
+waste_dataset/plastic/000028.jpg,a plastic bottle in garbage bin,plastic,000028.jpg,plastic,6,31,6,plastic bottle garbage bin,plastic bottl garbag bin,4,0,0,0,0,1,0
+waste_dataset/glass/000241.jpg,glass container discarded as garbage,glass,000241.jpg,glass,5,36,5,glass container discarded garbage,glass contain discard garbag,1,0,1,0,0,0,0
+waste_dataset/glass/000158.jpg,empty glass bottle discarded waste,glass,000158.jpg,glass,5,34,5,empty glass bottle discarded waste,empti glass bottl discard wast,1,0,1,0,0,0,0
+waste_dataset/glass/000175.jpg,broken glass item for recycling,glass,000175.jpg,glass,5,31,5,broken glass item recycling,broken glass item recycl,1,0,1,0,0,0,0
+waste_dataset/metal/000224.jpg,recycled metal can garbage item found,metal,000224.jpg,metal,6,37,6,recycled metal garbage item found,recycl metal garbag item found,2,0,0,1,0,0,0
+waste_dataset/plastic/000038.jpg,plastic bag found in garbage waste,plastic,000038.jpg,plastic,6,34,6,plastic bag found garbage waste,plastic bag found garbag wast,4,0,0,0,0,1,0
+waste_dataset/plastic/000296.jpg,plastic waste item for recycling,plastic,000296.jpg,plastic,5,32,5,plastic waste item recycling,plastic wast item recycl,4,0,0,0,0,1,0
+waste_dataset/trash/000194.jpg,household garbage thrown away,trash,000194.jpg,trash,4,29,4,household garbage thrown away,household garbag thrown away,5,0,0,0,0,0,1
+waste_dataset/paper/000424.jpg,torn paper piece in waste bin,paper,000424.jpg,paper,6,29,6,torn paper piece waste bin,torn paper piec wast bin,3,0,0,0,1,0,0
+waste_dataset/cardboard/000162.jpg,cardboard material discarded in bin,cardboard,000162.jpg,cardboard,5,35,5,cardboard material discarded bin,cardboard materi discard bin,0,1,0,0,0,0,0
